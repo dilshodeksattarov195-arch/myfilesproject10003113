@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routeruelete",
+        "uuid": 19770663,
+        "checksum": "a36j3c"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
